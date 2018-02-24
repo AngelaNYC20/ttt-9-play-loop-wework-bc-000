@@ -36,3 +36,12 @@ def turn(board)
 end
 
 # Define your play method below
+
+def play (board)
+  calls_turn = 0 
+  while calls_turn < 9 
+    puts "X"
+  end 
+ end  
+  
+
