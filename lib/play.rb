@@ -41,7 +41,6 @@ def play (board)
   calls_turn = 0 
   while calls_turn < 9
     calls_turn += 1
-    play(board, index)
+    turn(board)
   end 
-   turn(board)
  end  
