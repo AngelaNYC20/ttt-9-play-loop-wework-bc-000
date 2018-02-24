@@ -41,6 +41,6 @@ def play (board)
   calls_turn = 0 
   while calls_turn < 9
     calls_turn += 1
-    puts calls_turn.turn 
+    puts  
   end 
  end  
