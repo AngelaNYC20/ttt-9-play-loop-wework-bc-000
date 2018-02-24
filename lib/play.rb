@@ -43,5 +43,4 @@ def play (board)
     calls_turn += 1
     puts "X"
   end 
-  play(#turn)
  end  
